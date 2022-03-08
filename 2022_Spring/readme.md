@@ -41,7 +41,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Cho, Paul :octocat: 😾 🍫
 
-- [ ] Chojolan, Edwin
+- [x] Chojolan, Edwin
 
 - [x] Chu, Kelly @kellyychu 🔑 🔒
 
